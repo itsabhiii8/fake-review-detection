@@ -21,14 +21,6 @@ Main task is to detect whether a given review is fraudulent or not. If it is com
   <li>nltk</li>
   <li>nltk.corpus</li>
   <li>String</li>
-  <li>sklearn.naive_bayes</li>
-  <li>sklearn.feature_extraction</li>
-  <li>sklearn.model_selection</li>
-  <li>sklearn.ensemble</li>
-  <li>sklearn.tree</li>
-  <li>sklearn.linear_model</li>
-  <li>sklearn.svc</li>
-  <li>sklearn.neighbors</li>
 </ul>
 
 ## Techniques Used for Text Preprocessing
@@ -40,13 +32,6 @@ Main task is to detect whether a given review is fraudulent or not. If it is com
   <li>Stemming</li>
   <li>Lemmatizing</li>
   <li>Removing digits</li>
-</ul>
-
-## Transformers Used for Text Vectorization, Weighting and Normalization
-
-<ul>
-  <li>CountVectorizer Bag of Words Transformer</li>
-  <li>TFIDF(Term Frequency-Inverse Document Frequency) Transformer</li>
 </ul>
 
 ## Machine Learning Algorithms Used
